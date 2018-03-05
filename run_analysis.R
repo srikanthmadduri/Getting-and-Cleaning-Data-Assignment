@@ -1,5 +1,3 @@
-# By Raymond Tang for Coursera: Getting and Cleaning Data (Assignment) 2014 April
-
 run_analysis <- function(){
   # load test data  
   subject_test = read.table("UCI HAR Dataset/test/subject_test.txt")
